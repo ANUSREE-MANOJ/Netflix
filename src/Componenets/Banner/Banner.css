@@ -1,0 +1,9 @@
+.Banner{
+    background-size: cover;
+    height: 475px;
+    color: white;
+   
+}
+.fade-bottom{
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+}
